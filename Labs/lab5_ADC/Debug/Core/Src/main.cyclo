@@ -1,0 +1,12 @@
+../Core/Src/main.c:86:5:main	2
+../Core/Src/main.c:142:6:SystemClock_Config	3
+../Core/Src/main.c:184:13:MX_ADC1_Init	3
+../Core/Src/main.c:236:13:MX_USART3_UART_Init	2
+../Core/Src/main.c:271:13:MX_GPIO_Init	1
+../Core/Src/main.c:287:6:displayADC	1
+../Core/Src/main.c:299:6:displayLED	7
+../Core/Src/main.c:343:6:displayHEX	1
+../Core/Src/main.c:359:5:average_8	2
+../Core/Src/main.c:374:5:average_16	2
+../Core/Src/main.c:393:6:MPU_Config	1
+../Core/Src/main.c:424:6:Error_Handler	1
