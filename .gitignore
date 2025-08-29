@@ -17,7 +17,6 @@ Obj/
 # IDE specific files
 .metadata/
 .settings/
-.project
 .cproject
 *.launch
 *.tmp
