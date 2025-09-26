@@ -1,0 +1,17 @@
+../Drivers/CMSIS/Include/core_cm7.h:2229:22:SCB_EnableICache	1
+../Drivers/CMSIS/Include/core_cm7.h:2281:22:SCB_EnableDCache	3
+../Core/Src/main.c:113:5:main	2
+../Core/Src/main.c:190:6:SystemClock_Config	4
+../Core/Src/main.c:245:6:draw_sensor_value	3
+../Core/Src/main.c:290:6:second_screen	6
+../Core/Src/main.c:342:5:is_detect_picture	7
+../Core/Src/main.c:362:6:draw_text_character_info	1
+../Core/Src/main.c:399:6:main_screen	11
+../Core/Src/main.c:470:7:isDetectCircle	25
+../Core/Src/main.c:512:6:draw_div_circle	1
+../Core/Src/main.c:526:6:draw_big_circle	1
+../Core/Src/main.c:533:6:draw_base_progress_bar	1
+../Core/Src/main.c:554:10:mixedColor	1
+../Core/Src/main.c:563:10:CRC16_2	4
+../Core/Src/main.c:582:6:draw_value_prog_bar	1
+../Core/Src/main.c:640:6:Error_Handler	1
