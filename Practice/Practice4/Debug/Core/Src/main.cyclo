@@ -1,0 +1,4 @@
+../Core/Src/main.c:61:7:getVin	1
+../Core/Src/main.c:74:5:main	2
+../Core/Src/main.c:139:6:SystemClock_Config	4
+../Core/Src/main.c:200:6:Error_Handler	1
